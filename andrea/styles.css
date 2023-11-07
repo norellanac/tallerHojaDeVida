@@ -1,0 +1,304 @@
+html{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Prata', serif;
+}
+
+
+/* // Skills
+color: '#1C8EB5';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Business Analysis, UX Research, User Testing and Validation, Customer Journey Mapping, Information Architecture, Low- and High- Fidelity Wireframing, Prototyping, Interaction Design, Visual Design, Defining Product Specifications, Design System Development, Design Sprints, A/B Testing.<br/><br/>Experienced with Kanban, Agile & Lean methodologies.<br/><br/>Coding fundamentals. HTML, CSS, JavaScript, SQL
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '400';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// Education & Learning
+color: '#1C8EB5';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Master’s in Human-Computer Interaction
+color: '#222222';
+ fontSize: 12;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Copenhagen School of Design and Technology, 2015 – 2016
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Bachelor's of Arts
+color: '#222222';
+ fontSize: 12;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Copenhagen School of Design and Technology, 2011 – 2015
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// UX: Interaction Design
+color: '#222222';
+ fontSize: 12;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Trydesignlab.com, Dec 2017
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Design Leadership Masterclass
+color: '#222222';
+ fontSize: 12;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Design Lab Inc., Mar 2020
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// UX Design Specialization
+color: '#222222';
+ fontSize: 12;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Udacity.com, online course by Google, <br/>Aug 2016
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Branding fundamentals
+color: '#222222';
+ fontSize: 12;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Design Lab Inc., Nov 2014
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Work experience
+color: '#1C8EB5';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Product Designer
+color: '#222222';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Fintef, Oct 2019 - Present
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Designing end-to-end experience for financial products on mobile & web platforms. Working closely with managers, marketing specialists and developers.
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '400';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// UX Designer
+color: '#222222';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Rewamped website flows and navigation menus, reducing the frequency of misdirected customer service queries by 30%. Conducted user testing with 10+ participants using UserTesting.com; designed agains findings which reduced bounce rate for primary user flow by 30%.
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '400';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// Resume Worded, Sep 2017 – Sep 2019
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Associate UX Designer
+color: '#222222';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Redesigned company’s homepage and lead generation forms using existing design system; reduced bounce rates by 40% and increased leads by 15%.<br/>Designed online customer support center comprising of a self-service knowledge base and interactive chat bot. Coached 15 summer interns.
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '400';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// Growshi, Dec 2016 – Aug 2017
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// UX Analyst
+color: '#222222';
+ fontSize: 14;
+ fontFamily: 'Poppins';
+ fontWeight: '700';
+ lineHeight: 20;
+ wordWrap: 'break-word'
+---
+// Managed redesign of internal tracking system in use by 125 employees, resulting in 20+ new features and 25% higher engagement.<br/>Worked with product managers to validate design hypothesis by conducting interviews and usability sessions.
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '400';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// Growshi, Mar 2016 – Dec 2016
+color: '#797979';
+ fontSize: 11;
+ fontFamily: 'Prata';
+ fontWeight: '400';
+ lineHeight: 16;
+ wordWrap: 'break-word'
+---
+// Kate Bishop
+color: '#222222';
+ fontSize: 26;
+ fontFamily: 'Poppins';
+ fontWeight: '600';
+ lineHeight: 34;
+ wordWrap: 'break-word'
+---
+// Product Designer
+color: '#1C8EB5';
+ fontSize: 16;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// Over 5 years of professional experience conducting UX research and designing interactive end-to-end user flows. <br/>I enjoy working in close collaboration with teams across technology, business and design.
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '400';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// linkedin.com/in/kate-bishop
+color: 'black';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '600';
+ textDecoration: 'underline';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// Email
+color: '#1C8EB5';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// Phone
+color: '#1C8EB5';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// LinkedIn
+color: '#1C8EB5';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '500';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// kate.bishop@katedesign.com
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '600';
+ textDecoration: 'underline';
+ lineHeight: 14;
+ wordWrap: 'break-word'
+---
+// +46 98-765 43 21
+color: '#222222';
+ fontSize: 10;
+ fontFamily: 'Poppins';
+ fontWeight: '600';
+ textDecoration: 'underline';
+ lineHeight: 14;
+ wordWrap: 'break-word' */
